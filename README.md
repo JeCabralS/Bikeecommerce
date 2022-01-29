@@ -8,7 +8,7 @@ Elaborei uma loja de bicicleta e acessórios.
 ![bikeecommerce](https://user-images.githubusercontent.com/82785756/151637319-f80174b0-2ed3-4038-aa8a-ca308289fe19.png)
 
 
-Responsivo
+                                                    RESPONSIVO
 
 ![responsivo](https://user-images.githubusercontent.com/82785756/151637045-15eca906-18fc-479a-8468-0117804e4bc4.png)
 999.png)
