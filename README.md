@@ -8,10 +8,4 @@ Elaborei uma loja de bicicleta e acessórios.
 ![bikeecommerce](https://user-images.githubusercontent.com/82785756/151637319-f80174b0-2ed3-4038-aa8a-ca308289fe19.png)
 
 
-                                                    RESPONSIVO
-
-![responsivo](https://user-images.githubusercontent.com/82785756/151637045-15eca906-18fc-479a-8468-0117804e4bc4.png)
-999.png)
-![responsivo2](https://user-images.githubusercontent.com/82785756/151637062-df1ad7ab-277d-4f81-a2b6-7a15b27272e8.png)
-![responsivo3](https://user-images.githubusercontent.com/82785756/151637068-e262ef9f-cc9d-4350-bb21-385cd04f0aee.png)
-![responsivo4](https://user-images.githubusercontent.com/82785756/151637073-569c9226-734c-4fdd-8f01-08747ca23de6.png)
+    
